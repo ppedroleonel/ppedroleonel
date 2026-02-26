@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Prazer meu nome é Pedro, sou de São Paulo, estudante de desenvolvimento de sistemas no SENAI.</p>
+<p align="left">Prazer meu nome é Pedro, sou de São Paulo.</p>
 
 ###
 
@@ -10,11 +10,11 @@
 
 ###
 
-<p align="left">⚽Gosto de Esportes<br>🎮 Viciado em games<br>⚙️ Aprendendo a criar bugs<br>🥷 Adoro tecnologia</p>
+<p align="left">🎓 Estudante de Desenvolvimentos de Sistemas - SENAI<br>🚀 Focado na evolução constante<br>⚽Gosto de Esportes</p>
 
 ###
 
-<h2 align="left">Tecnológias</h2>
+<h2 align="left">Tecnologias</h2>
 
 ###
 
