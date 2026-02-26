@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🎓 Estudante de Desenvolvimentos de Sistemas - SENAI<br>🚀 Focado na evolução constante<br>⚽Gosto de Esportes</p>
+<p align="left">🎓 Estudante de Desenvolvimentos de Sistemas - SENAI<br>🚀 Focado na evolução constante<br>⚽Gosto de Esportes<br>🎮Gosto de jogar</p>
 
 ###
 
