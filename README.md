@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">⚽Gosto de Esportes<br>🎮 Viciado em games<br>⚙️ Aprendendo a criar bugs<br>🥷 Amante da tecnologia</p>
+<p align="left">⚽Gosto de Esportes<br>🎮 Viciado em games<br>⚙️ Aprendendo a criar bugs<br>🥷 Adoro tecnologia</p>
 
 ###
 
